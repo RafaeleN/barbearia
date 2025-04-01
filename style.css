@@ -1,0 +1,55 @@
+
+body{
+    background: #ffffff;
+}
+
+.principal{
+
+    background: #cabc7e;
+    padding: 30px;
+}
+
+.tp{
+    padding-left: 20px;
+}
+
+p{
+    text-align: center
+}
+
+#missão{
+    font-size: 20px; 
+}
+
+.tituloc{
+    
+    text-align: center;
+}
+
+
+em strong{
+    color: chocolate;
+} 
+.itens{
+    font-style: italic;
+
+}
+img{
+    width: 1900px;
+    height: 650px;
+    
+}
+.beneficios{
+    background: #ffffffff;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagemb{
+    width: 50%;
+}
